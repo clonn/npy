@@ -1,0 +1,8 @@
+{
+  "name": "npy",
+  "version": "1.0.0",
+  "description": "npm command alias to yarn",
+  "main": "index.js",
+  "author": "clonn",
+  "license": "MIT"
+}
